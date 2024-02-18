@@ -71,7 +71,7 @@ fun MyApp() {
 
         JokeModel(
             id = 5,
-            question = "What did the mother bufallo say to her child when she left him at kindegarten?",
+            question = "What did the mother bufallo say to her child when she left him at kindegarden?",
             answer = "Bison",
             answerIsVisible = true
         )
